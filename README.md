@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm Aiman Hakeem
 
-<!--
-**AimanHakeem/AimanHakeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building innovative solutions. Here's a bit about me:
 
-Here are some ideas to get you started:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on exciting projects in web development, automation & desktop app.
+- 🌱 I’m currently learning new technologies to enhance my skills.
+- 👯 I’m looking to collaborate on open source projects that make a positive impact.
+- 💬 Ask me about anything related to web development, software engineering, or technology in general!
+- 📫 How to reach me: [Email](mailto:your_email@example.com) | [LinkedIn](https://www.linkedin.com/in/your_username) | [Twitter](https://twitter.com/your_username)
+- ⚡ Fun fact: I love to explore different cuisines and experiment with cooking in my free time!
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AimanHakeem&layout=compact)](https://github.com/AimanHakeem/github-readme-stats)
+
+Feel free to explore my repositories and reach out if you'd like to connect or collaborate!

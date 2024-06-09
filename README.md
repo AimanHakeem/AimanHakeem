@@ -10,6 +10,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - ⚡ Fun fact: I love to explore different cuisines and experiment with cooking in my free time!
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AimanHakeem&layout=compact)](https://github.com/AimanHakeem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to explore my repositories and reach out if you'd like to connect or collaborate!

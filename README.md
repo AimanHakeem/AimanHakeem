@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 🌱 I’m currently learning new technologies to enhance my skills.
 - 👯 I’m looking to collaborate on open source projects that make a positive impact.
 - 💬 Ask me about anything related to web development, software engineering, or technology in general!
-- 📫 How to reach me: [Email](mailto:your_email@example.com) | [LinkedIn](https://www.linkedin.com/in/your_username) | [Twitter](https://twitter.com/your_username)
+- 📫 How to reach me: [Twitter](https://twitter.com/aimanhakeema)
 - ⚡ Fun fact: I love to explore different cuisines and experiment with cooking in my free time!
 
 ## Top Languages

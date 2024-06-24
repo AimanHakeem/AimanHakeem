@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AimanHakeem&theme=dark&rank_icon=github" />
 </a>
 <a href="https://github.com/aimanhakkeem/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AimanHakeem&layout=compact&langs_count=8&hide=php,css,Hack&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AimanHakeem&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 ### :hammer_and_wrench: Languages and Tools :
